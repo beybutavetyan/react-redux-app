@@ -1,0 +1,4 @@
+export const intlConstants = {
+    SWITCH_LANGUAGE: 'INTL_SWITCH_LANGUAGE',
+    SAVE_CURRENT_PATH: 'INTL_SAVE_CURRENT_PATH',
+};
